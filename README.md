@@ -16,7 +16,7 @@ Una vez que corriste la línea anterior, debería haberse copiado todo el conten
 # Para actualizar el repo
 A medida que avancen las clases, voy a ir actualizando el contenido de este repo, así que (seguramente) vas a querer actualizarlo en tu compu. Para ello, repetí el paso 2., y corré la siguiente línea en la terminal:
 ```
-git pull origin main
+git pull
 ```
 
 # Profe Gian, ¿hay alguna manera de hacer lo mismo pero en una interfaz gráfica?
