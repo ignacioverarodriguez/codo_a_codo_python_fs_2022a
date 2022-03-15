@@ -8,7 +8,7 @@ En este repositorio se verán reflejados algunos enlaces del curso, y los ejempl
 
 3. Copiá y pegá la siguiente línea en la terminal/ventana de comandos:
 ```
-git clone git@github.com:gianfranco-s/CaC-Python-FS-2022a.git
+git clone https://github.com/gianfranco-s/codo_a_codo_python_fs_2022a.git
 ```
 
 Una vez que corriste la línea anterior, debería haberse copiado todo el contenido del repo a tu compu.
