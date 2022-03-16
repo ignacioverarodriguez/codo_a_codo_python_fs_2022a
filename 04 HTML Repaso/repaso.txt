@@ -37,3 +37,6 @@ Lista ordenada
 Tablas
 iframe
 footer
+
+Clase 3:
+relacionar el sitio creado hoy, con el formulario de la clase pasada
