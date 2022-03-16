@@ -3,7 +3,8 @@
 2. Generar un sitio web para la empresa "Transportes Armando Paredes", que incluya todas las etiquetas semánticas:
 
 ## Clase 1:
-etiquetas básicas
+Etiquetas básicas
+```
 * <title> indica el título de la página Web, que se visualiza en la barra de título del navegador.  
 * <body> es el cuerpo del documento donde va a estar todo el contenido que vamos a mostrar.  
 * <b>Texto en negrita o bold</b>  
@@ -18,8 +19,10 @@ etiquetas básicas
 * Este es un <em>texto con énfasis</em>
 * Este es un <strong>texto importante</strong>
 * <font COLOR="navy">Texto AZUL MARINO </font>
+```
 
-##Clase 2:
+## Clase 2:
+```
 * <header>
 * <nav>
 * <main>
@@ -35,6 +38,7 @@ etiquetas básicas
 * Tablas
 * iframe
 * footer
+```
 
 ## Clase 3:
-relacionar el sitio creado hoy, con el formulario de la clase pasada
+Relacionar el sitio creado hoy, con el formulario de la clase pasada
