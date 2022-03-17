@@ -1,7 +1,7 @@
 En este repositorio se verán reflejados algunos enlaces del curso, y los ejemplos que vayamos viendo en clase.
 
 
-# Para copiar este repositorio en tu compu]test
+# Para copiar este repositorio en tu compu]
 1. [Instalá git](https://git-scm.com/downloads)
 
 2. Abrí una terminal/ventana de comandos, y navegá hasta la carpeta en la que querés descargar el repo (repo = repositorio)
